@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.217.89.186:8081/repository/pipetest-release/</url>
+	      <url>http://18.217.89.186:8081/repository/pipetest2-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.217.89.186:8081/repository/pipetest-snapshot/</url>
+	      <url>http://18.217.89.186:8081/repository/pipetest2-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
